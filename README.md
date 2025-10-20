@@ -1,7 +1,4 @@
 - 👋 Hi, I’m omid Kianfar
-- 🌱 Im Front-End devloper specialist in Next.js. 
-I hold a bachelor's degree in Software Engineering and have approximately 4.5 years of professional experience, specializing in JavaScript frameworks such as React.js and Next.js.
-For the past 3 years, I have been part of a professional remote front-end team, collaborating on several large-scale projects for companies across different countries. In many of these projects, I have contributed as a front-end developer and problem solver.
-Prior to that, I spent around 1.5 years as a freelance web developer, working with technologies such as Laravel, Vue.js, React.js, and MySQL.
+- 🌱 Front-End Developer with 5 years of experience building modern web applications using React.js and Next.js. Contributed as part of a professional team on large-scale remote projects for companies in the U.S., Canada, and Europe, delivering responsive, scalable, and high-performance interfaces.
 - 📫 My gmail kianfar0991@gmail.com and my linkedin https://www.linkedin.com/in/kianfar-omid1990/
 
