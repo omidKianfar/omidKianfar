@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Omid Kianfar
-- 🌱 Front-End Developer with 5 years of experience building modern web applications using React.js and Next.js. Contributed as part of a professional team on large-scale remote projects for companies in the U.S., Canada, and Europe, delivering responsive, scalable, and high-performance interfaces.
-- 📫 My gmail kianfar0991@gmail.com and my linkedin https://www.linkedin.com/in/kianfar-omid1990/
+- 🌱 Front-End Developer | React.js & Next.js | 5+ Years Experience
+Building fast, scalable, and responsive web applications with React.js and Next.js. Experienced in TypeScript, API integration, UI optimization, and collaborating remotely with international teams to deliver high-quality, production-ready interfaces. Passionate about clean code, seamless UX, and innovative.
+- 📫 My gmail omid.kianfar.dev@gmail.com | kianfar0991@gmail.com | kianfar.omid.990@gmail.com and my linkedin https://www.linkedin.com/in/kianfar-omid1990/
 
