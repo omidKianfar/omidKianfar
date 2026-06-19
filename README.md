@@ -6,7 +6,7 @@ I specialize in building high-performance, scalable web applications with a focu
 
 ### 🛠 Tech Stack
 - **Core:** TypeScript, JavaScript (ES6+), Next.js, React.js, Vue.js.
-- **Architecture & Patterns:** System Design, Atomic Design, Clean Code.
+- **Architecture & Patterns:** System Design, Atomic Design, SOLID Principles, Clean Code.
 - **State & Data Layer:** GraphQL, React Query, RESTful APIs, Redux Toolkit (RTK), Valtio.
 - **UI/UX & Animation:** Tailwind CSS, MUI, Styled Components, Framer Motion, Lottie React.
 - **Multimedia & Rich Text:** Slate.js, FFmpeg, Wave Surfer.
@@ -19,7 +19,8 @@ I specialize in building high-performance, scalable web applications with a focu
 - **Remote Expertise:** Strong experience in international remote teams, prioritizing clear communication and agile delivery.
 - **Reliable Problem Solving:** Proven track record in high-volume production environments and critical performance optimization.
 
-### 📫 Connect with me
+### 🌐 Connect with me
+- **Portfolio:** Coming Soon — *Currently crafting my digital presence.*
+- **Resume:** [Download PDF Version](https://github.com/omidKianfar/omid-kianfar-resume/raw/main/Omid-Kianfar-Resume.pdf) — *Detailed work history and technical achievements.*
 - **Email:** [omid.kianfar.dev@gmail.com](mailto:omid.kianfar.dev@gmail.com)
 - **LinkedIn:** [linkedin.com/in/kianfar-omid1990](https://www.linkedin.com/in/kianfar-omid1990/)
-- **Portfolio:** []()
