@@ -24,3 +24,4 @@ I specialize in building high-performance, scalable web applications with a focu
 - **Resume:** [Download PDF Version](https://github.com/omidKianfar/omid-kianfar-resume/raw/main/Omid-Kianfar-Resume.pdf) — *Detailed work history and technical achievements.*
 - **Email:** [omid.kianfar.dev@gmail.com](mailto:omid.kianfar.dev@gmail.com)
 - **LinkedIn:** [linkedin.com/in/kianfar-omid1990](https://www.linkedin.com/in/kianfar-omid1990/)
+- **x:** [x.com/omid_Kianfar](https://x.com/omid_Kianfar)
