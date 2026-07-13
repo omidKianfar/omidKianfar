@@ -20,7 +20,7 @@ I specialize in building high-performance, scalable web applications with a focu
 - **Reliable Problem Solving:** Proven track record in high-volume production environments and critical performance optimization.
 
 ### 🌐 Connect with me
-- **Portfolio:** Coming Soon — *Currently crafting my digital presence.*
+- **Portfolio:** [omid-kianfar-portfolio.netlify.app](https://omid-kianfar-portfolio.netlify.app/)
 - **Resume:** [Download PDF Version](https://github.com/omidKianfar/omid-kianfar-resume/raw/main/Omid-Kianfar-Resume.pdf) — *Detailed work history and technical achievements.*
 - **Email:** [omid.kianfar.dev@gmail.com](mailto:omid.kianfar.dev@gmail.com)
 - **LinkedIn:** [linkedin.com/in/kianfar-omid1990](https://www.linkedin.com/in/kianfar-omid1990/)
